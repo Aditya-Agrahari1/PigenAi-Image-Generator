@@ -63,7 +63,7 @@
 |---------------|------------------|
 | Frontend      | HTML, CSS, JavaScript |
 | Backend       | Node.js, Express.js |
-| AI Model/API  | Replicate, OpenAI, Stability |
+| AI Model/API  | Flux |
 | Deployment    | Render (Static + Server) |
 
 ---
