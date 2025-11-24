@@ -2,7 +2,7 @@
 
 **PigenAI** is a simple, free, and user-friendly web-based application that allows users to generate high-quality AI images using natural language prompts. Designed for ease of use and accessibility, it requires **no signup or login**, making it ideal for quick, anonymous creativity.
 
-🔗 **Live Demo**: [https://pigenai.onrender.com](https://pigenai.onrender.com)
+🔗 **Live Demo**: [https://pigenai.art](https://pigenai.art)
 
 ---
 
