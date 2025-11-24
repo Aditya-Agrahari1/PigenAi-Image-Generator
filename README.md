@@ -29,7 +29,7 @@
 
 ## 🎮 How It Works
 
-1. Open [https://pigenai.onrender.com](https://pigenai.onrender.com)
+1. Open [https://pigenai.art](https://pigenai.art)
 2. Enter a descriptive prompt (e.g., *“astronaut riding a unicorn in space, digital art”*)
 3. (Optional) Toggle **Safe Mode** for filtered results
 4. Click **Generate**
