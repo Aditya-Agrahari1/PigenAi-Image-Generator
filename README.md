@@ -1,104 +1,148 @@
-## 🖼️ PigenAI – AI-Powered Image Generator
+# PigenAI — Free AI Image & Video Generator (No Login, Unlimited)
 
-**PigenAI** is a simple, free, and user-friendly web-based application that allows users to generate high-quality AI images using natural language prompts. Designed for ease of use and accessibility, it requires **no signup or login**, making it ideal for quick, anonymous creativity.
+**PigenAI** is a **free AI image and video generator** that lets you create stunning visuals from **text or images** — with **no signup, no limits, and no paywalls**.
 
-🔗 **Live Demo**: [https://pigenai.art](https://pigenai.art)
+Generate **AI images, AI videos, uncensored content, photorealistic art, and creative visuals** instantly using multiple powerful AI models.
 
----
+🌐 **Live Website:** https://pigenai.art  
 
-## 🚀 Overview
-
-- **Type:** Web-based AI Image Generator  
-- **Access:** Public (No login required)  
-- **Status:** Testing Phase  
-- **Platform:** Desktop & Mobile Optimized  
-- **Deployment:** Hosted on Render
+⭐ *If you like this project, give it a star — it helps a lot!*
 
 ---
 
-## 🧩 Features
+## 🔥 Why PigenAI?
 
-- 🆓 **Unlimited free image generation**  
-- ✍️ **Text-to-image generation** via simple prompts  
-- 🔒 **Safe Mode toggle** to filter NSFW content  
-- 📥 **Download**, 🔗 **Share**, 📋 **Copy** buttons under every generated image  
-- 📱 **Mobile-optimized UI** for easy use on WhatsApp and Telegram  
-- 🧠 Built with **AI APIs** for realistic, artistic, and creative results
+- ✅ No login required  
+- ✅ Unlimited AI generations  
+- ✅ Text to Image / Image to Image / Text to Video  
+- ✅ Uncensored AI models available  
+- ✅ Fast, clean, premium dark UI  
+- ✅ Privacy-first (no user tracking)
 
----
-
-## 🎮 How It Works
-
-1. Open [https://pigenai.art](https://pigenai.art)
-2. Enter a descriptive prompt (e.g., *“astronaut riding a unicorn in space, digital art”*)
-3. (Optional) Toggle **Safe Mode** for filtered results
-4. Click **Generate**
-5. Once the image is rendered:
-   - Click **Download** to save locally
-   - Use **Share** to copy a sharable link or send to Telegram/WhatsApp
-   - **Copy** the image to your clipboard for quick use
+> Just open the site, write a prompt, and generate. That’s it.
 
 ---
 
-## 🧪 Current Limitations
+## ✨ Features
 
-- Only one image generated per prompt (multi-image support coming soon)
-- Occasional delays during peak usage (due to Render hosting limits)
-- No prompt history or user tracking (privacy-focused)
+### 🖼️ AI Image Generation
+- Text-to-Image AI generation  
+- Image-to-Image transformations  
+- High-resolution outputs  
+- Photorealistic & artistic styles  
 
----
+### 🎥 AI Video Generation
+- Text-to-Video generation  
+- Smooth AI-generated visuals  
+- Ideal for experiments, reels, and concepts  
 
-## 🖼️ Use Cases
+### 🧠 Multiple AI Models
+Choose the best model for your needs:
+- **Imagen 4** – Ultra-realistic image generation  
+- **Gemini 2.0** – Advanced visual synthesis  
+- **Nano Banana** – Fast & creative outputs  
+- **Uncensored Models** – No NSFW restrictions (user responsibility)  
 
-- 🔍 Exploring creative ideas and scenes
-- 🎨 Designing concept art, digital content, or storyboards
-- 🗣️ Sharing on Telegram, WhatsApp, Instagram
-- 💭 Visualizing thoughts, fantasies, or prompts
+> New AI models are added frequently.
 
----
+### ✍️ Prompt Enhancements
+- **Magic Enhance** – Automatically improves prompts  
+- Built-in inspiration prompts for quick ideas  
 
-## 📦 Tech Stack
-
-| Layer         | Technology        |
-|---------------|------------------|
-| Frontend      | HTML, CSS, JavaScript |
-| Backend       | Node.js, Express.js |
-| AI Model/API  | Flux |
-| Deployment    | Render (Static + Server) |
-
----
-
-## 📊 Analytics & Tracking
-
-While user data is **not collected**, general site traffic may be monitored via tools like Google Analytics (pending setup) to understand usage patterns and improve performance.
-
----
-
-## 📌 Project Info
-
-- 🔧 **Project Name**: PigenAI  
-- 👤 **Creator**: Aditya  
-- 📅 **Status**: Actively being tested and improved  
-- 🔗 **Telegram**: [Join Community](https://t.me/StarkDigitalVentures)
+### 📂 Creation History
+- View your recent generations  
+- Instant downloads  
+- No account needed  
 
 ---
 
-## 📫 Contact
+## 🆓 100% Free Forever
 
-If you have suggestions, bug reports, or business inquiries, feel free to contact:
+- No credits  
+- No subscriptions  
+- No watermarks  
+- No hidden limits  
 
-- Telegram: [StarkSupport](https://t.me/@StarkSupportt_bot)
-- Email: techveltrix@gmail.com
-
----
-
-> ❗ **Note:** This project is privately maintained and not released under any open-source license. Redistribution or unauthorized usage of source code or backend logic is prohibited.
+PigenAI is built to stay **open and accessible**.
 
 ---
 
-## 🙏 Acknowledgements
+## 🧩 Use Cases
 
-Thanks to all early users and supporters who are testing the platform and sharing feedback. Your input helps shape the future of PigenAI.
+- AI art & concept design  
+- Social media content (Instagram, Telegram, WhatsApp)  
+- Prompt testing & experimentation  
+- Creative storytelling  
+- Fun, exploration & inspiration  
 
 ---
 
+## 🛠️ Tech Stack
+
+| Layer     | Technology |
+|----------|------------|
+| Frontend | TypeScript, HTML, CSS |
+| Backend  | JavaScript (Node.js) |
+| AI APIs  | Multiple AI image & video models |
+| Hosting  | Render |
+| UI       | Custom Dark / Neon UI |
+
+
+---
+
+## 🚧 Project Status
+
+- **Stage:** Public Beta  
+- **Availability:** 24/7  
+- **Development:** Actively maintained  
+- **Scalability:** Continuously improving  
+
+---
+
+## 🌟 Other Products
+
+Available directly inside PigenAI:
+- **Prompt Enhancer** – Improve AI prompts instantly  
+- **Movie Bot** – Free movies on Telegram  
+- **Scroll Break App** – Reduce doom scrolling & improve focus  
+
+---
+
+## 🤝 Contributing / Feedback
+
+This project is **not open-source**, but feedback is always welcome.
+
+- Feature requests  
+- UI/UX suggestions  
+- Bug reports  
+- Model recommendations  
+
+📩 **Email:** techveltrix@gmail.com  
+
+---
+
+## 👤 Creator
+
+- **Founder:** Aditya  
+- **Community:** StarkDigitalVentures  
+
+---
+
+## ⚠️ Disclaimer
+
+- All content is generated by AI models.  
+- Users are responsible for how generated content is used.  
+- PigenAI does **not store personal user data**.  
+- Source code and backend logic are **private**.  
+- Redistribution or resale is strictly prohibited.  
+
+---
+
+## ⭐ Support the Project
+
+If PigenAI helped you:
+- ⭐ Star this repository  
+- 🔗 Share with friends  
+- 💡 Send feedback  
+
+Your support helps keep **PigenAI free and improving** ❤️
