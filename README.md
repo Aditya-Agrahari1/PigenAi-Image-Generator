@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditya-Agrahari1&repo=PigenAi-Image-Generator&style=for-the-badge&color=8b5cf6" alt="Repo Views">
+</p>
+
 # PigenAI — Free AI Image & Video Generator (No Login, Unlimited)
 
 **PigenAI** is a **free AI image and video generator** that lets you create stunning visuals from **text or images** — with **no signup, no limits, and no paywalls**.
