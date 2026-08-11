@@ -2,151 +2,60 @@
   <img src="https://komarev.com/ghpvc/?username=Aditya-Agrahari1&repo=PigenAi-Image-Generator&style=for-the-badge&color=8b5cf6" alt="Repo Views">
 </p>
 
-# PigenAI — Free AI Image & Video Generator (No Login, Unlimited)
+# PigenAI — Studio-Grade AI Image & Video Generation
 
-**PigenAI** is a **free AI image and video generator** that lets you create stunning visuals from **text or images** — with **no signup, no limits, and no paywalls**.
+**PigenAI** is an all-in-one AI image and video generation platform, aggregating 50+ flagship models — including Flux, Veo 3.1, Kling, and Ideogram — into a single interface.
 
-Generate **AI images, AI videos, uncensored content, photorealistic art, and creative visuals** instantly using multiple powerful AI models.
+Generate studio-grade images, turn scripts into fully edited videos, and apply one-click style transformations.
 
-🌐 **Live Website:** https://pigenai.art  
-
-⭐ *If you like this project, give it a star — it helps a lot!*
+**Live product:** [pigenai.art](https://www.pigenai.art)
 
 ---
 
-## 🔥 Why PigenAI?
+## Why PigenAI
 
-- ✅ No login required  
-- ✅ Unlimited AI generations  
-- ✅ Text to Image / Image to Image / Text to Video  
-- ✅ Uncensored AI models available  
-- ✅ Fast, clean, premium dark UI  
-- ✅ Privacy-first (no user tracking)
-
-> Just open the site, write a prompt, and generate. That’s it.
+- **50+ Models, One Interface** — Flux, Midjourney, Veo 3.1, Kling, Ideogram, and more, without juggling separate tools or subscriptions.
+- **Free Daily Tier** — 20 free images + 3 free videos every day. Text-to-image requires no signup or card; other generation types require a free account.
+- **Transparent, Usage-Based Pricing** — plans from $1.99/mo, or a $2 one-time top-up. Pay for what you use.
+- **Privacy by Design** — user prompts and images are never used for model training. Full commercial ownership of everything generated.
+- **Independently Operated** — built and maintained directly by its founder, with no intermediary support layers.
 
 ---
 
-## ✨ Features
+## What It Does
 
-### 🖼️ AI Image Generation
-- Text-to-Image AI generation  
-- Image-to-Image transformations  
-- High-resolution outputs  
-- Photorealistic & artistic styles  
+### Image Generation
+Text-to-image and image-to-image in under 5 seconds, with access to premium models (Flux Pro, Ideogram v3, Midjourney) for complex prompts. Full generation history included.
 
-### 🎥 AI Video Generation
-- Text-to-Video generation  
-- Smooth AI-generated visuals  
-- Ideal for experiments, reels, and concepts  
+### AutoReel Studio — Script to Video
+Turns a script into a finished, upload-ready faceless video: visuals, voiceover, and editing handled end-to-end. Optimized for YouTube and Shorts, built on Veo, Kling, and Seedance.
 
-### 🧠 Multiple AI Models
-Choose the best model for your needs:
-- **Imagen 4** – Ultra-realistic image generation  
-- **Gemini 2.0** – Advanced visual synthesis  
-- **Nano Banana** – Fast & creative outputs  
-- **Uncensored Models** – No NSFW restrictions (user responsibility)  
-
-> New AI models are added frequently.
-
-### ✍️ Prompt Enhancements
-- **Magic Enhance** – Automatically improves prompts  
-- Built-in inspiration prompts for quick ideas  
-
-### 📂 Creation History
-- View your recent generations  
-- Instant downloads  
-- No account needed  
+### Style Effects
+Upload a photo, pick a style, done — no prompt writing required. 12+ presets (GTA Effect, Minecraft, LEGO, Anime, MS Paint, 4K Enhancer) for social posts and avatars.
 
 ---
 
-## 🆓 100% Free Forever
+## Pricing
 
-- No credits  
-- No subscriptions  
-- No watermarks  
-- No hidden limits  
-
-PigenAI is built to stay **open and accessible**.
+Plans start at $1.99/mo, with a $2 one-time top-up option for occasional use. See [pigenai.art/pricing](https://www.pigenai.art) for current tiers.
 
 ---
 
-## 🧩 Use Cases
+## Feedback & Support
 
-- AI art & concept design  
-- Social media content (Instagram, Telegram, WhatsApp)  
-- Prompt testing & experimentation  
-- Creative storytelling  
-- Fun, exploration & inspiration  
+The core platform is closed-source. Feature requests, bug reports, and model suggestions are welcome.
+
+**Contact:** support@pigenai.art
 
 ---
 
-## 🛠️ Tech Stack
+## Legal
 
-| Layer     | Technology |
-|----------|------------|
-| Frontend | TypeScript, HTML, CSS |
-| Backend  | JavaScript (Node.js) |
-| AI APIs  | Multiple AI image & video models |
-| Hosting  | Render |
-| UI       | Custom Dark / Neon UI |
-
+- All content is AI-generated. Users are responsible for how generated content is used.
+- PigenAI does not store personal user data or use prompts to train models.
+- Source code and backend logic are proprietary.
+- Redistribution or resale of generated content platform access is prohibited.
 
 ---
 
-## 🚧 Project Status
-
-- **Stage:** Public Beta  
-- **Availability:** 24/7  
-- **Development:** Actively maintained  
-- **Scalability:** Continuously improving  
-
----
-
-## 🌟 Other Products
-
-Available directly inside PigenAI:
-- **Prompt Enhancer** – Improve AI prompts instantly  
-- **Movie Bot** – Free movies on Telegram  
-- **Scroll Break App** – Reduce doom scrolling & improve focus  
-
----
-
-## 🤝 Contributing / Feedback
-
-This project is **not open-source**, but feedback is always welcome.
-
-- Feature requests  
-- UI/UX suggestions  
-- Bug reports  
-- Model recommendations  
-
-📩 **Email:** techveltrix@gmail.com  
-
----
-
-## 👤 Creator
-
-- **Founder:** Aditya  
-- **Community:** StarkDigitalVentures  
-
----
-
-## ⚠️ Disclaimer
-
-- All content is generated by AI models.  
-- Users are responsible for how generated content is used.  
-- PigenAI does **not store personal user data**.  
-- Source code and backend logic are **private**.  
-- Redistribution or resale is strictly prohibited.  
-
----
-
-## ⭐ Support the Project
-
-If PigenAI helped you:
-- ⭐ Star this repository  
-- 🔗 Share with friends  
-- 💡 Send feedback  
-
-Your support helps keep **PigenAI free and improving** ❤️
+*Built with React, Node.js/Express, and a 50+ model API aggregation layer.*
