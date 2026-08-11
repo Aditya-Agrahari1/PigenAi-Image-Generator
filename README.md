@@ -15,6 +15,7 @@ Generate studio-grade images, turn scripts into fully edited videos, and apply o
 ## Why PigenAI
 
 - **50+ Models, One Interface** — Flux, Midjourney, Veo 3.1, Kling, Ideogram, and more, without juggling separate tools or subscriptions.
+- **One Plan Instead of a Dozen** — Individually, these model providers charge separate, often expensive subscriptions each. PigenAI gives you access to all of them under one affordable plan.
 - **Free Daily Tier** — 20 free images + 3 free videos every day. Text-to-image requires no signup or card; other generation types require a free account.
 - **Transparent, Usage-Based Pricing** — plans from $1.99/mo, or a $2 one-time top-up. Pay for what you use.
 - **Privacy by Design** — user prompts and images are never used for model training. Full commercial ownership of everything generated.
@@ -45,7 +46,7 @@ Plans start at $1.99/mo, with a $2 one-time top-up option for occasional use. Se
 
 The core platform is closed-source. Feature requests, bug reports, and model suggestions are welcome.
 
-**Contact:** support@pigenai.art
+**Contact:** support@pigenai.art *(swap in a dedicated support alias if you have one — a personal Gmail undercuts the "company" read)*
 
 ---
 
@@ -58,3 +59,10 @@ The core platform is closed-source. Feature requests, bug reports, and model sug
 
 ---
 
+## A Note from the Founder
+
+PigenAI started with a simple idea: make powerful generative AI accessible without forcing creators to jump between dozens of tools. I'm building PigenAI to bring image generation, video creation, and creative AI workflows into one simple platform. There's still a lot to build, and I'm excited about where this is going. If you have feedback, ideas, or just want to say hello, I'd love to hear from you.
+
+— Aditya, Founder
+
+---
