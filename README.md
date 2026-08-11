@@ -2,6 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=Aditya-Agrahari1&repo=PigenAi-Image-Generator&style=for-the-badge&color=8b5cf6" alt="Repo Views">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/status-live-8b5cf6?style=for-the-badge" alt="Live">
+  <img src="https://img.shields.io/badge/users-2%2C100%2B-8b5cf6?style=for-the-badge" alt="Users">
+  <img src="https://img.shields.io/badge/pricing-from%20%241.99%2Fmo-8b5cf6?style=for-the-badge" alt="Pricing">
+</p>
+
 # PigenAI — Studio-Grade AI Image & Video Generation
 
 **PigenAI** is an all-in-one AI image and video generation platform, aggregating 50+ flagship models — including Flux, Veo 3.1, Kling, and Ideogram — into a single interface.
@@ -46,7 +52,7 @@ Plans start at $1.99/mo, with a $2 one-time top-up option for occasional use. Se
 
 The core platform is closed-source. Feature requests, bug reports, and model suggestions are welcome.
 
-**Contact:** support@pigenai.art *(swap in a dedicated support alias if you have one — a personal Gmail undercuts the "company" read)*
+**Contact:** support@pigenai.art
 
 ---
 
