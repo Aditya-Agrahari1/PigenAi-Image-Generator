@@ -1,8 +1,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya-Agrahari1&repo=PigenAi-Image-Generator&style=for-the-badge&color=8b5cf6" alt="Repo Views">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/status-live-8b5cf6?style=for-the-badge" alt="Live">
   <img src="https://img.shields.io/badge/users-2%2C100%2B-8b5cf6?style=for-the-badge" alt="Users">
   <img src="https://img.shields.io/badge/pricing-from%20%241.99%2Fmo-8b5cf6?style=for-the-badge" alt="Pricing">
