@@ -58,4 +58,3 @@ The core platform is closed-source. Feature requests, bug reports, and model sug
 
 ---
 
-*Built with React, Node.js/Express, and a 50+ model API aggregation layer.*
